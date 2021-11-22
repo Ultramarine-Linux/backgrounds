@@ -1,6 +1,7 @@
+DESTDIR=/
 install:
-	mkdir -p /usr/share/backgrounds/ultramarine-linux
-	cp -vr ultramarine-linux/* /usr/share/backgrounds/ultramarine-linux/
-	ln -s /usr/share/backgrounds/ultramarine-linux/default /usr/share/backgrounds/default
-	ln -s /usr/share/backgrounds/ultramarine-linux/default/default.jpg /usr/share/backgrounds/default.png
-	install ultramarine-wallpapers.xml /usr/share/gnome-background-properties/ultramarine-wallpapers.xml
+	mkdir -p $(DESTDIR)/share/backgrounds/ultramarine-linux
+	cp -vr ultramarine-linux/* $(DESTDIR)/share/backgrounds/ultramarine-linux/
+	ln -s $(DESTDIR)/share/backgrounds/ultramarine-linux/default $(DESTDIR)/share/backgrounds/default
+	ln -s $(DESTDIR)/share/backgrounds/ultramarine-linux/default/default.jpg $(DESTDIR)/share/backgrounds/default.png
+	install ultramarine-wallpapers.xml $(DESTDIR)/share/gnome-background-properties/ultramarine-wallpapers.xml
