@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Blue Ocean</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/blue-ocean.jpg</filename>
+        <options>zoom</options>
+        <author>manu schwendener</author>
+        <license>CC0</license>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Silhouette of Mountain</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/silhouette-of-mountain.jpg</filename>
+        <options>zoom</options>
+        <author>Elliott Englemann</author>
+        <license>CC0</license>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Artwork by Ren Ran</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/by-ren-ran.jpg</filename>
+        <options>zoom</options>
+        <author>Ren Ran</author>
+        <license>CC0</license>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Scenic View of Frozen Lake Against Mountain Range</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/default/default.jpg</filename>
+        <options>zoom</options>
+        <author>Pixabay</author>
+        <license>CC0</license>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Star Trails</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/mountain-range.jpg</filename>
+        <options>zoom</options>
+        <author>M. Duro Jr.</author>
+        <license>CC-BY-SA 4.0</license>
+    </wallpaper>
+</wallpapers>
