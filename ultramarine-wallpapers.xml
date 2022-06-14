@@ -2,6 +2,16 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
     <wallpaper deleted="false">
+        <name>Ultramarine Linux</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/default/ultramarine-light.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/default/ultramarine-dark.png</filename-dark>
+        <options>zoom</options>
+        <shade_type>solid</shade_type>
+        <pcolor>#3071AE</pcolor>
+        <scolor>#000000</scolor>
+        <author>Aikoyori Hoshihane</author>
+    </wallpaper>
+    <wallpaper deleted="false">
         <name>Blue Ocean</name>
         <filename>/usr/share/backgrounds/ultramarine-linux/blue-ocean.jpg</filename>
         <options>zoom</options>
