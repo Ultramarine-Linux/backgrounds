@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Foresty Skies</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/39/foresty-skies-l.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/39/foresty-skies-d.png</filename-dark>
+        <options>zoom</options>
+        <author>Aikoyori Hoshiane</author>
+    </wallpaper>
+</wallpapers>
