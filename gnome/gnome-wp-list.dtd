@@ -1,0 +1,8 @@
+<!ELEMENT wallpapers (wallpaper+)>
+<!ELEMENT wallpaper (name,filename,options,author,license)>
+<!ATTLIST wallpaper deleted NMTOKEN #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT filename (#PCDATA)>
+<!ELEMENT options (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT license (#PCDATA)>
