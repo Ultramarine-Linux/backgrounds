@@ -8,4 +8,11 @@
         <options>zoom</options>
         <author>Aikoyori Hoshiane</author>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>Umbrella</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/40/umbrella-light.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/40/umbrella-dark.png</filename-dark>
+        <options>zoom</options>
+        <author>Aikoyori Hoshiane</author>
+    </wallpaper>
 </wallpapers>
