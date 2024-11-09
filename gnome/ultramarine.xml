@@ -2,16 +2,15 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
     <wallpaper deleted="false">
-        <name>Lost</name>
-        <filename>/usr/share/backgrounds/ultramarine-linux/40/lost-light.png</filename>
-        <filename-dark>/usr/share/backgrounds/ultramarine-linux/40/lost-dark.png</filename-dark>
+        <name>Viewports</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41/viewports-light.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/41/viewports-dark.png</filename-dark>
         <options>zoom</options>
         <author>Aikoyori Hoshiane</author>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Umbrella</name>
-        <filename>/usr/share/backgrounds/ultramarine-linux/40/umbrella-light.png</filename>
-        <filename-dark>/usr/share/backgrounds/ultramarine-linux/40/umbrella-dark.png</filename-dark>
+        <name>Viewports (Fake Dark)</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41/viewports-fake-dark.png</filename>
         <options>zoom</options>
         <author>Aikoyori Hoshiane</author>
     </wallpaper>
