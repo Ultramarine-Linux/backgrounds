@@ -14,4 +14,11 @@
         <options>zoom</options>
         <author>Aikoyori Hoshiane</author>
     </wallpaper>
+    <wallpaper deleted="false">
+        <name>Paradise</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41/paradise-light.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/41/paradise-dark.png</filename-dark>
+        <options>zoom</options>
+        <author>im.j</author>
+    </wallpaper>
 </wallpapers>
