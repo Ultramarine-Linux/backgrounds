@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Wavelet Light
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+X-KDE-PluginInfo-Name=Wavelet Light
+X-KDE-PluginInfo-Author=Aulys
+X-KDE-PluginInfo-License=CC-BY-SA-4.0
