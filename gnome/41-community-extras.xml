@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Eternal Ultramarine</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Eternal-Ultramarine-Light.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Eternal-Ultramarine-Dark.png</filename-dark>
+        <options>zoom</options>
+        <author>Inderix</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Lazuli</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Lazuli-light.png</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Lazuli-dark.png</filename-dark>
+        <options>zoom</options>
+        <author>Inderix</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Lumos Dawn</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Lumos-Dawn.PNG</filename>
+        <options>zoom</options>
+        <author>Artemis</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Really Long Name</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Really-Long-Name.PNG</filename>
+        <options>zoom</options>
+        <author>Artemis</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wavelength</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/Wavelength.PNG</filename>
+        <options>zoom</options>
+        <author>Its-J</author>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wavelet</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/wavelet-light.PNG</filename>
+        <filename-dark>/usr/share/backgrounds/ultramarine-linux/41-community-extras/wavelet-dark.PNG</filename-dark>
+        <options>zoom</options>
+        <author>Aulys</author>
+    </wallpaper>
+     <wallpaper deleted="false">
+        <name>Waves Clean</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/41-community-extras/waves-clean.png</filename>
+        <options>zoom</options>
+        <author>libano</author>
+    </wallpaper>
+</wallpapers>
