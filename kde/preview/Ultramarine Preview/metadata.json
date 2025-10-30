@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "jade@fyralabs.com",
+                "Name": "Jaiden Riordan"
+            }
+        ],
+        "Id": "Blueprint",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Ultramarine Linux Preview"
+    }
+}

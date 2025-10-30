@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "art@fyralabs.com",
+                "Name": "Lyric Peterson"
+            }
+        ],
+        "Id": "Mizuki at Home",
+        "License": "NONE-Copyrighted",
+        "Name": "Mizuki at Home"
+    }
+}

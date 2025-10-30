@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Inderix"
+            }
+        ],
+        "Id": "Lazuli Light",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Lazuli Light"
+    }
+}

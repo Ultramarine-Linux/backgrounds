@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mado@fyralabs.com",
+                "Name": "madonuko"
+            }
+        ],
+        "Id": "Viewports Light",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Viewports Light"
+    }
+}
