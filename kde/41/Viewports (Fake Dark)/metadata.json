@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mado@fyralabs.com",
+                "Name": "madonuko"
+            }
+        ],
+        "Id": "Viewports (Fake Dark)",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Viewports (Fake Dark)"
+    }
+}
