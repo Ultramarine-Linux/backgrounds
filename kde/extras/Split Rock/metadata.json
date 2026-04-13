@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "copyright@unsplash.com",
+                "Name": "rod m"
+            }
+        ],
+        "Id": "splitrock",
+        "License": "Unsplash License",
+        "Name": "Split Rock"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "copyright@unsplash.com",
+                "Name": "Mathieu Turle"
+            }
+        ],
+        "Id": "baby-jelly",
+        "License": "Unsplash License",
+        "Name": "Baby Jelly"
+    }
+}

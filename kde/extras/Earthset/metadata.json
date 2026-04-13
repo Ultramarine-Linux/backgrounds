@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "imagery@nasa.gov",
+                "Name": "Reid Wiseman"
+            }
+        ],
+        "Id": "Earthset",
+        "License": "NASA Imagery Guidelines",
+        "Name": "Earthset"
+    }
+}
