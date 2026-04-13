@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "copyright@unsplash.com",
+                "Name": "Dulcey Lima"
+            }
+        ],
+        "Id": "saguaro",
+        "License": "Unsplash License",
+        "Name": "Saguaro"
+    }
+}

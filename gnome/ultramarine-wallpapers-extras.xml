@@ -16,31 +16,37 @@
         <author>Aikoyori Hoshiane</author>
     </wallpaper>
         <wallpaper deleted="false">
-        <name>brown concrete building on beach during daytime</name>
-        <filename>/usr/share/backgrounds/ultramarine-linux/extras/tortuga-beach.jpg</filename>
+        <name>Split Rock</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/extras/splitrock.jpg</filename>
         <options>zoom</options>
-        <author>Christopher Ocean</author>
+        <author>Mathieu Turle</author>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Blue Ocean</name>
-        <filename>/usr/share/backgrounds/ultramarine-linux/extras/blue-ocean.jpg</filename>
+        <name>Baby Jelly</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/extras/baby-jelly.jpg</filename>
         <options>zoom</options>
-        <author>manu schwendener</author>
+        <author>rod m</author>
         <license>CC0</license>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Silhouette of Mountain</name>
-        <filename>/usr/share/backgrounds/ultramarine-linux/extras/silhouette-of-mountain.jpg</filename>
+        <name>Earthset</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/extras/earthset.jpg</filename>
         <options>zoom</options>
-        <author>Elliott Englemann</author>
-        <license>CC0</license>
+        <author>Reid Wiseman</author>
     </wallpaper>
     <wallpaper deleted="false">
-        <name>Star Trails</name>
-        <filename>/usr/share/backgrounds/ultramarine-linux/extra/mountain-range.jpg</filename>
+        <name>Saguaro</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/extra/saguaro.jpg</filename>
         <options>zoom</options>
-        <author>M. Duro Jr.</author>
-        <license>CC-BY-SA 4.0</license>
+        <author>Dulcey Lima</author>
+        <license>Unsplash</license>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Doremi</name>
+        <filename>/usr/share/backgrounds/ultramarine-linux/extra/doremi.jpg</filename>
+        <options>zoom</options>
+        <author>Claudio Biesele</author>
+        <license>Unsplash</license>
     </wallpaper>
      <wallpaper deleted="false">
         <name>Blueprint</name>
