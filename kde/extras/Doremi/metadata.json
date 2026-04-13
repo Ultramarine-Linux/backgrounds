@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "copyright@unsplash.com",
+                "Name": "Claudio Biesele"
+            }
+        ],
+        "Id": "doremi",
+        "License": "Unsplash License",
+        "Name": "Doremi"
+    }
+}
